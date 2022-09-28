@@ -91,5 +91,13 @@
     "websocket-driver": "^0.7.4",
     "websocket-extensions": "^0.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenySivaykin/4-antras.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EvgenySivaykin/4-antras/issues"
+  },
+  "homepage": "https://github.com/EvgenySivaykin/4-antras#readme",
   "description": ""
 }
